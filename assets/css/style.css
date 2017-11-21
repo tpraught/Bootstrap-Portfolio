@@ -9,12 +9,3 @@ body {
 .card-title {
 	bottom:0px;
 }
-
-.portfolio {
-	bottom:0px;
-}
-
-.aboutMe, .contact {
-	bottom:0px;
-	position:absolute !important;
-}
