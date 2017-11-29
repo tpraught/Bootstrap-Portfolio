@@ -2,12 +2,11 @@ body {
 	background: url('../images/bkg_round.png') repeat top left;
 	height:100%;
 	height:100vh;
+	position:relative;
 }
-
 .bg-light {
 	background:#ffffff !important;
 }
-
 .card-title {
 	bottom:0px;
 }
